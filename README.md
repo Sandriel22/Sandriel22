@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Sandriel Soares</h1>
-<h3 align="center">Uma apaixonada desenvolvedora frontend do Brasil</h3>
+<h3 align="center">Um apaixonado desenvolvedor frontend do Brasil</h3>
 
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=sandriel22&label=Profile%20views&color=0e75b6&style=flat" alt="sandriel22" /> </p>
 
