@@ -8,8 +8,6 @@
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomaz-Dantass&layout=compact&hide_border=true&title_color=008000&text_color=008000&bg_color=0d1117" />
   
-  ![Snake animation](https://github.com/Thomaz-Dantass/Thomaz-Dantass/blob/output/github-contribution-grid-snake.svg)
-
 <div align="center"> 
 <a href="https://www.instagram.com/thomazz_dantas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:thomazvvbf@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
